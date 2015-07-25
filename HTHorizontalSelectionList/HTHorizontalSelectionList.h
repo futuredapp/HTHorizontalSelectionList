@@ -69,6 +69,7 @@ typedef NS_ENUM(NSInteger, HTHorizontalSelectionIndicatorAnimationMode) {
 - (void)reloadData;
 
 - (void)setSelectedButtonIndex:(NSInteger)selectedButtonIndex animated:(BOOL)animated;
+- (void)scrollToIndex:(NSInteger)index;
 
 @end
 
