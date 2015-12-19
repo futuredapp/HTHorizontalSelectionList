@@ -186,6 +186,7 @@
 		036F053319C624D9000D2EEB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = Hightower;
 				TargetAttributes = {
